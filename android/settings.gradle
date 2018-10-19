@@ -1,3 +1,3 @@
-rootProject.name = 'ReddHub'
+rootProject.name = 'reddhub'
 
 include ':app'
